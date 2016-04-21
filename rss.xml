@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[mariosocratesphotography]]></title>
         <description><![CDATA[mariosocratesphotography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mario_socrates/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 11:31:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 11:32:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mario_socrates/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[HOME]]></title>
             <description><![CDATA[<p>HOME</p>]]></description>
-            <link>undefinedhome/index.html</link>
+            <link>https://thegrid.ai/mario_socrates/home/index.html</link>
             <guid isPermaLink="false">aacdbecf-b5cf-4ed0-b90b-5fc6d9f5006c</guid>
-            <pubDate>Thu, 21 Apr 2016 11:31:41 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2016 11:31:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
