@@ -1,6 +1,6 @@
 name: mario_socrates
 favicon: null
-layout_spectrum: 0.5899362193886191
+layout_spectrum: 0.01906
 typography_spectrum: 0.5845548149663955
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.57986760744825
+    - '#bfbfbf'
+    - '#e7e7e7'
+    - '#4a4a4a'
+    - '#808080'
+    - '#1f1f1f'
+  brandStrength: 0.5
   lightness: 0.11778582143597305
   saturation: 0.7796862737741321
   rhythmicContrast: 0.6329592720139772
